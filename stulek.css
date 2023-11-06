@@ -1,0 +1,26 @@
+body{
+    background-color: #f0bbff;
+}
+.bg-yellow {
+    background: rgb(224, 62, 227);
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+}
+
+.bg-green {
+    background: rgb(231, 70, 234);
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+}
+
+.bg-red {
+    background: rgb(212, 66, 225);
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+}
